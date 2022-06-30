@@ -1,0 +1,16 @@
+/Users/eneskiris/Desktop/BankaKrediHesaplama/bin/Debug/net5.0/BankaKrediHesaplama
+/Users/eneskiris/Desktop/BankaKrediHesaplama/bin/Debug/net5.0/BankaKrediHesaplama.deps.json
+/Users/eneskiris/Desktop/BankaKrediHesaplama/bin/Debug/net5.0/BankaKrediHesaplama.runtimeconfig.json
+/Users/eneskiris/Desktop/BankaKrediHesaplama/bin/Debug/net5.0/BankaKrediHesaplama.runtimeconfig.dev.json
+/Users/eneskiris/Desktop/BankaKrediHesaplama/bin/Debug/net5.0/BankaKrediHesaplama.dll
+/Users/eneskiris/Desktop/BankaKrediHesaplama/bin/Debug/net5.0/BankaKrediHesaplama.pdb
+/Users/eneskiris/Desktop/BankaKrediHesaplama/obj/Debug/net5.0/BankaKrediHesaplama.csproj.AssemblyReference.cache
+/Users/eneskiris/Desktop/BankaKrediHesaplama/obj/Debug/net5.0/BankaKrediHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eneskiris/Desktop/BankaKrediHesaplama/obj/Debug/net5.0/BankaKrediHesaplama.AssemblyInfoInputs.cache
+/Users/eneskiris/Desktop/BankaKrediHesaplama/obj/Debug/net5.0/BankaKrediHesaplama.AssemblyInfo.cs
+/Users/eneskiris/Desktop/BankaKrediHesaplama/obj/Debug/net5.0/BankaKrediHesaplama.csproj.CoreCompileInputs.cache
+/Users/eneskiris/Desktop/BankaKrediHesaplama/obj/Debug/net5.0/BankaKrediHesaplama.dll
+/Users/eneskiris/Desktop/BankaKrediHesaplama/obj/Debug/net5.0/refint/BankaKrediHesaplama.dll
+/Users/eneskiris/Desktop/BankaKrediHesaplama/obj/Debug/net5.0/BankaKrediHesaplama.pdb
+/Users/eneskiris/Desktop/BankaKrediHesaplama/obj/Debug/net5.0/BankaKrediHesaplama.genruntimeconfig.cache
+/Users/eneskiris/Desktop/BankaKrediHesaplama/obj/Debug/net5.0/ref/BankaKrediHesaplama.dll
